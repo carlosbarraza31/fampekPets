@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/fampekPets/static/css/main.15e3d485.css",
+    "main.js": "/fampekPets/static/js/main.c0b78143.js",
+    "static/js/592.a186f18c.chunk.js": "/fampekPets/static/js/592.a186f18c.chunk.js",
+    "static/media/main_background.jpg": "/fampekPets/static/media/main_background.729c0dc0ad4ed7d6d348.jpg",
+    "index.html": "/fampekPets/index.html",
+    "main.15e3d485.css.map": "/fampekPets/static/css/main.15e3d485.css.map",
+    "main.c0b78143.js.map": "/fampekPets/static/js/main.c0b78143.js.map",
+    "592.a186f18c.chunk.js.map": "/fampekPets/static/js/592.a186f18c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15e3d485.css",
+    "static/js/main.c0b78143.js"
+  ]
+}
